@@ -6,7 +6,7 @@
 
 ![Javascript](images/javascript.png) ![Node](images/node.png) ![React](images/react.png) ![TypeScript](images/typescript.png)
 
-- 📫 How to find me: 
+- 📫 Where to find me: 
 
 <a href="https://www.linkedin.com/in/robert-torres1000/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteng" alt="linkedin"> 
