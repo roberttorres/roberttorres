@@ -4,7 +4,7 @@
 
 - 🔭 Languages that I love to work ... 
 
-![Javascript](images/javascript.png) ![Node](images/node.png) ![React](images/react.png) ![TypeScript](images/typescript.png)
+![Javcript](images/javascript.png) ![Node](images/node.png) ![React](images/react.png) ![TypeScript](images/typescript.png)
 
 - 📫 Where to find me: 
 
