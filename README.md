@@ -2,9 +2,11 @@
 
  A Web developer who loves create software which help the people's life.  
 
-- 🔭 Languages that I love to work ... 
+<!--
+ - 🔭 Languages that I love to work ... 
 
-![Javcript](images/javascript.png) ![Node](images/node.png) ![React](images/react.png) ![TypeScript](images/typescript.png)
+ ![Javcript](images/javascript.png) ![Node](images/node.png) ![React](images/react.png) ![TypeScript](images/typescript.png)
+-->
 
 - 📫 Where to find me: 
 
